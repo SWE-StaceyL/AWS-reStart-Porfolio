@@ -6,7 +6,7 @@ Hi, I am Stacey L
 ## 👋 Introduction
 
 I am a self-taught software engineer and an aspiring AWS Cloud Practitioner currently participating in the **Praesignis AWS re/Start cohort program. 
- This repository documents my learning journey, furthermore developing hands-on skills through building, programming and security. I am furthering my career in cloud in order to persue a role in Cloud-Security, and reflections as I build practical cloud skills and work toward becoming a certified AWS Certified Cloud Practitioner.
+This repository documents my learning journey, furthermore developing hands-on skills through building, programming and security. I am furthering my career in cloud in order to persue a role in Cloud-Security, and reflections as I build practical cloud skills and work toward becoming a certified AWS Certified Cloud Practitioner.
 
  The goal of this repository is to demonstrate **real-world cloud knowledge**, consistent learning, and applied problem-solving using Amazon Web Services (AWS).
 
