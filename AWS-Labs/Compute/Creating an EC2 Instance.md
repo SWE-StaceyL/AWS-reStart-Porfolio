@@ -1,5 +1,7 @@
 AWS EC2 Hands-On Lab
 
+<img width="423" height="341" alt="image" src="https://github.com/user-attachments/assets/7b8873d0-ab3b-4976-9c02-b6e1ba4868ac" />
+
 ### Overview
 This lab demonstrates practical experience with Amazon EC2 (Elastic Compute Cloud), a core AWS service that provides scalable computing capacity in the cloud. During this lab, I worked through the process of launching, configuring, securing, monitoring, and scaling EC2 instances, gaining a clear understanding of how cloud infrastructure behaves in real-world scenarios.
 
@@ -8,7 +10,6 @@ By completing this lab, I not only deployed a working web server but also explor
 ### Lab Architecture
 The lab involved deploying a web server on EC2 with proper security and scalability:
 
-image
 
 ### Lab Work
 
