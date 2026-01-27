@@ -117,6 +117,6 @@ I successfully launched and accessed an EC2 instance, demonstrating foundational
 
 Stacey L Munnik
 Cloud & Software Engineering Learner
-AWS EC2 Hands-on Lab (2025)
+AWS EC2 Hands-on Lab (2026)
 
 ⭐ This project demonstrates practical experience with core AWS EC2 operations and cloud infrastructure management.
