@@ -10,7 +10,8 @@ The lab involved deploying a web server on EC2 with proper security and scalabil
 
 image
 
-### Lab Tasks
+### Lab Work
+
 1️⃣ Launch EC2 Instance
 I began by launching an EC2 instance named Web Server using the Amazon Linux 2023 AMI. I selected a t3.micro instance type and configured termination protection to prevent accidental deletion. Using a User Data script, I automated the installation of an Apache web server and deployed a simple web page.
 
