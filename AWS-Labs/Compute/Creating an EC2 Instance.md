@@ -41,12 +41,18 @@ I tested termination protection by attempting to terminate the instance, which w
 Screenshot Placeholder
 image image image image image image image image
 
-### What I Learned
-Through this lab, I gained hands-on experience with EC2 from start to finish. I learned how to:
+### Key Concepts Covered
+- EC2 instance creation
+- Instance types and sizing
+- Key pairs and security groups
+- Connecting to an EC2 instance
 
-Deploy and secure a web server using automation
-Use security groups to control network traffic effectively
-Monitor instance health and performance using CloudWatch
-Scale compute and storage resources dynamically
-Implement safeguards like termination protection to prevent accidental loss
-Overall, this experience deepened my understanding of cloud infrastructure management and gave me practical insight into building resilient and scalable applications on AWS.
+### My Learning Outcome
+I successfully launched and accessed an EC2 instance, demonstrating foundational cloud compute knowledge, through this lab I also gained hands-on experience on the management console. I learned how to:
+
+- Deploy and secure a web server using automation
+- Use security groups to control network traffic effectively
+- Monitor instance metrics, health and performance using CloudWatch
+- Scale compute and storage resources dynamically
+- Implement safeguards like termination protection to prevent accidental loss
+- Overall, this experience deepened my understanding of cloud infrastructure management and gave me practical insight into building resilient and scalable EC2 Instance applications.
