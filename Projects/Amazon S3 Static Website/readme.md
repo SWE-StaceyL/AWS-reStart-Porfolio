@@ -1,0 +1,53 @@
+# ☕ Ahku Café – Cloud Migration Project
+
+## Project Overview
+Ahku Café is a fictional lifestyle café focused on calm coffee rituals and mindful living.  
+This project demonstrates the migration of Ahku Café’s outdated, on-premises web presence to a **fully cloud-based solution using Amazon Web Services (AWS)**.
+
+The goal of the migration is to improve availability, scalability, security, and cost efficiency while establishing a modern online presence.
+
+---
+
+## Problem Statement
+Ahku Café previously relied on traditional, non-scalable infrastructure and had no reliable online platform to showcase its menu or engage customers.
+
+Key challenges included:
+- No online presence
+- Limited customer reach
+- High maintenance costs
+- Lack of scalability
+- Manual infrastructure management
+
+---
+
+## Solution Summary
+The café was migrated to AWS using **Amazon S3 Static Website Hosting**, enabling a serverless, highly available, and cost-effective solution.
+
+The new cloud architecture allows customers to:
+- View the café menu
+- Learn about the business
+- Contact the café online
+
+---
+
+## AWS Services Used
+
+### ☁️ Amazon S3 (Simple Storage Service)
+- Hosts the static website (HTML, CSS, images)
+- Provides high durability (99.999999999%)
+- Automatically scales with traffic
+- Low operational cost
+
+### 🔐 AWS IAM (Identity and Access Management)
+- Secures access to AWS resources
+- Enforces least-privilege access
+- Protects the AWS account from unauthorized access
+
+### 🌐 (Optional / Future Enhancements)
+- **Amazon CloudFront** – Content Delivery Network for faster global access
+- **Amazon Route 53** – Custom domain management
+- **AWS Lambda** – Serverless backend for future order processing
+
+---
+
+## Architecture Overview
