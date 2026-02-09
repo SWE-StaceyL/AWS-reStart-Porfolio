@@ -11,7 +11,8 @@ Additionally, I learned how to evaluate cloud solutions by considering key facto
 Overall, this learning module strengthened my understanding of cloud fundamentals and provided a solid foundation for advancing into cloud engineering, backend development, and cloud-native application design.
 
 
-<img width="1200" height="890" alt="ComputingSolutions" src="https://github.com/user-attachments/assets/33a02f73-6015-42e6-90f5-49f16981c708" />
+![bee7ee5c-ec17-4e3a-b449-789657395d56](https://github.com/user-attachments/assets/901a2e5e-a42d-462f-b858-00ff00054e14)
+
+<img width="1064" height="817" alt="Screenshot 2026-02-09 114031" src="https://github.com/user-attachments/assets/55dbc4db-cb42-4134-9968-a67ada4cad65" />
 
 
-[Cloud Computing Solutions.pdf](https://github.com/user-attachments/files/25179241/Cloud.Computing.Solutions.pdf)
