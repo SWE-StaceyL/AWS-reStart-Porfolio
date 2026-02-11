@@ -1,11 +1,21 @@
 # AWS-re-Start Journey
 My AWS re/Start Cohort- ZAJoH40 Journey with Praesignis
 
-Hi, I am Stacey L
+
+### This Repository
+
+<img width="447" height="248" alt="Screenshot 2026-02-11 172226" src="https://github.com/user-attachments/assets/04d6ab32-f0f3-4318-b1e0-1cb6013ec987" /> 
+
+
+
+AWS re/Start Programme – Cloud & IT Fundamentals
+
+This repository showcases my practical work, labs, projects, and technical knowledge gained through the AWS re/Start Programme, a workforce development program focused on building foundational cloud computing and IT skills aligned with industry best practices.
+
 
 ### Introduction
 
-I am a self-taught software engineer and an aspiring AWS Cloud Practitioner currently participating in the **Praesignis AWS re/Start cohort program. 
+Hi, I am Stacey L and I am a self-taught software engineer and an aspiring AWS Cloud Practitioner currently participating in the **Praesignis AWS re/Start cohort program. 
 This repository documents my learning journey, furthermore developing hands-on skills through building, programming and security. I am furthering my career in cloud in order to persue a role in Cloud-Security, and reflections as I build practical cloud skills and work toward becoming a certified AWS Certified Cloud Practitioner.
 
  The goal of this repository is to demonstrate **real-world cloud knowledge**, consistent learning, and applied problem-solving using Amazon Web Services (AWS).
@@ -22,6 +32,8 @@ This repository documents my learning journey, furthermore developing hands-on s
 Through this cohort, I am gaining both **technical expertise** and **industry-ready skills** needed to succeed in the cloud ecosystem.
 
 ### AWS re/Start Journey – Praesignis Cohort
+
+<img width="768" height="271" alt="praesignis-logo-768x271" src="https://github.com/user-attachments/assets/e0f95a03-77d6-4866-86f4-4e5a18831818" />
 
 I joined the Praesignis-Cohort to gain cloud knowledge and experience. By gaining  AWS exposure throuth the cohort, I am able to build cloud computing foundations, apply AWS services and as well as gain practical knowledge through projects and labs. This cohort has assisted my confidence in obtaining a solid career in Cloud Computing and in IT.
 
