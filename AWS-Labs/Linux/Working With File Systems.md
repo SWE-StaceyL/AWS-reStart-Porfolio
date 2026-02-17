@@ -29,7 +29,7 @@ This provided secure remote access to the Linux server.
 
 <img width="1889" height="1001" alt="Screenshot 2026-01-29 071336" src="https://github.com/user-attachments/assets/3fc64e2d-2b30-4867-8b85-ff55738483ad" />
 
-<img width="663" height="158" alt="Screenshot 2026-01-29 082223" src="https://github.com/user-attachments/assets/04dfe849-0f79-45e0-a916-97cf8f5116aa" />
+<img width="1889" height="158" alt="Screenshot 2026-01-29 082223" src="https://github.com/user-attachments/assets/04dfe849-0f79-45e0-a916-97cf8f5116aa" />
 
 ### Task 2: Create a Backup Using tar
 Existing Folder Structure
