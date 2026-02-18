@@ -34,6 +34,8 @@ This lab demonstrates how AWS-managed databases integrate with compute resources
 - Custom DB Security Group
 - The EC2 instance connects privately to the Aurora cluster using the Writer (Cluster) Endpoint inside the VPC.
 
+<img width="1905" height="932" alt="Screenshot 2026-02-17 182028" src="https://github.com/user-attachments/assets/e1d7bcc3-2aac-4c52-b001-349492bbaa47" />
+
 ### Lab Implementation Steps
 1️. Create an Aurora Database
 
@@ -53,6 +55,13 @@ This lab demonstrates how AWS-managed databases integrate with compute resources
 - Encryption: Disabled (Lab setup)
 - Result: Successfully provisioned an Aurora DB cluster.
 
+
+<img width="947" height="984" alt="Screenshot 2026-02-17 140011" src="https://github.com/user-attachments/assets/1c231696-d16b-46cc-beef-0755f00fa5db" />
+
+<img width="951" height="973" alt="Screenshot 2026-02-17 140239" src="https://github.com/user-attachments/assets/037523c7-bda3-464b-a3d2-a892a578a0aa" />
+
+
+
 2️. Connect to EC2 Linux Instance
 
 - Service Used: Amazon EC2
@@ -65,6 +74,11 @@ This lab demonstrates how AWS-managed databases integrate with compute resources
 - sudo yum install mariadb -y
 
 The MariaDB client enables connection to MySQL-compatible database engines such as Aurora.
+
+<img width="952" height="985" alt="Screenshot 2026-02-17 140912" src="https://github.com/user-attachments/assets/13cce4ee-b75a-4600-89e2-df837741001d" />
+
+<img width="950" height="986" alt="Screenshot 2026-02-17 141001" src="https://github.com/user-attachments/assets/9d64b09c-74f1-42d6-bed1-8e4cd6a8e8f3" />
+
 
 4️. Connect to Aurora DB Cluster
 
@@ -96,6 +110,10 @@ USE world;
 - GNP
 - GovernmentForm
 
+<img width="1914" height="984" alt="Screenshot 2026-02-17 182847" src="https://github.com/user-attachments/assets/65b674c6-5128-4ec2-87e4-523efea28ace" />
+
+<img width="1896" height="986" alt="Screenshot 2026-02-17 183448" src="https://github.com/user-attachments/assets/a9f90061-aaf6-4aec-a604-67772f123064" />
+
 ### Insert Records
 
 - Inserted multiple country records including:
@@ -115,6 +133,10 @@ Result:
 Australia
 Thailand
 This confirmed successful table creation, data insertion, and querying.
+
+<img width="1899" height="989" alt="Screenshot 2026-02-17 184435" src="https://github.com/user-attachments/assets/2b27a6d1-1915-4938-8dec-730a48d675fd" />
+
+<img width="1900" height="982" alt="Screenshot 2026-02-17 184634" src="https://github.com/user-attachments/assets/aba0b072-4142-4346-ab88-3d91fe702b9e" />
 
 ### Key Concepts Learned
 - Cluster Endpoint vs Reader Endpoint
