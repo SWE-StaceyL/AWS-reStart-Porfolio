@@ -1,0 +1,7 @@
+## Cloud Economics (AWS SimuLearn)
+
+Completing the Cloud Economics AWS SimuLearn involved understanding how financial decision-making aligns with cloud architecture by applying AWS cost management and pricing principles in realistic business scenarios. Throughout the simulation, the focus was on analyzing workload requirements, selecting appropriate AWS services, and making cost-effective design choices while balancing performance, scalability, and operational efficiency. Key concepts included comparing pricing models such as On-Demand, Reserved Instances, and Savings Plans, performing instance rightsizing to eliminate overprovisioning, estimating costs using the AWS Pricing Calculator, and evaluating total cost of ownership (TCO) between on-premises and cloud environments. The exercise also reinforced the AWS Well-Architected Framework’s Cost Optimization pillar by emphasizing monitoring usage, forecasting expenses, and continuously optimizing resources to avoid waste. By completing the SimuLearn, practical skills were developed in interpreting pricing estimates, justifying architectural decisions from a business perspective, and demonstrating how cloud adoption enables organizations to achieve financial agility, scalability, and measurable cost savings.
+
+<img width="1200" height="664" alt="CloudEconomics" src="https://github.com/user-attachments/assets/2476e545-d755-4540-8fa1-3b805b50a66b" />
+
+<img width="1055" height="817" alt="Screenshot 2026-03-01 215333" src="https://github.com/user-attachments/assets/20d8d718-1569-4300-a44a-4ddad8c23bdf" />
