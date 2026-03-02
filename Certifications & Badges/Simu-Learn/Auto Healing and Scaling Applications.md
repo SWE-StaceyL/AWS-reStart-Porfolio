@@ -1,0 +1,7 @@
+## AWS Auto Healing and Scaling (SimuLearn)
+
+This lab focused on configuring a scheduled scaling policy within Amazon Web Services (AWS) using Amazon EC2 Auto Scaling to automatically reduce infrastructure resources and optimize cloud costs. The primary objective was to create a recurring scheduled action that scales the Auto Scaling Group down to zero instances daily at 01:00 AM, without defining an end date, ensuring continuous and automated cost control. To successfully complete the lab, I navigated to the EC2 dashboard in the AWS Management Console, accessed my existing Auto Scaling Group, and configured a scheduled action under the Automatic Scaling tab. I set the recurrence pattern to run daily at 01:00 AM in the correct time zone and adjusted the minimum and desired capacity to 0 to ensure all running instances would terminate at the scheduled time. I carefully ensured that no end time was configured, as required by the validation criteria. This implementation demonstrates practical understanding of scheduled scaling, resource lifecycle management, and cloud cost optimization strategies within AWS environments, reinforcing core cloud engineering and cloud economics principles.
+
+<img width="1500" height="888" alt="Auto-HealingandScalingApplications (1)" src="https://github.com/user-attachments/assets/96b8338d-0c50-48b7-9876-048bc816dbc3" />
+
+<img width="1066" height="818" alt="Screenshot 2026-03-02 204459" src="https://github.com/user-attachments/assets/a1c842d0-272d-4b19-881c-8574215fa9f6" />
