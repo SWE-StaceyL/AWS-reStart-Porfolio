@@ -1,4 +1,4 @@
-## Cloud First Steps (AWS SimuLearn)
+## AWS SimuLearn 3. Cloud First Steps 
 
 Through the **AWS SimuLearn – Cloud First Steps** labs, I gained an introductory, hands-on understanding of how cloud services are accessed, managed, and used within the AWS environment. These simulations focused on building initial familiarity with cloud concepts, the AWS Management Console, and the foundational services that support cloud-based solutions.
 
