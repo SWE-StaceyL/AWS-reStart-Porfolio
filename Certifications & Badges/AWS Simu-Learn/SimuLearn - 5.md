@@ -1,4 +1,4 @@
-## AWS SimuLearn 5. File Systems in the Cloud (AWS SimuLearn)
+## AWS SimuLearn 5. File Systems in the Cloud
 
 Through the **AWS SimuLearn – File Systems in the Cloud** labs, I gained hands-on experience with cloud-based file storage solutions, exploring how persistent file systems can be used to support scalable and collaborative applications. These labs focused on understanding when and why to use file-based storage, and how it complements object and block storage in cloud environments.
 
