@@ -1,4 +1,4 @@
-## Highly Avaiable Web Applications (AWS SimuLearn)
+## AWS SimuLearn 11. Highly Avaiable Web Applications 
 
 The objective of this lab was to design and validate a highly available web application architecture in AWS by ensuring fault tolerance, scalability, and distribution across multiple Availability Zones. To achieve this, I configured an Application Load Balancer to distribute incoming traffic evenly across EC2 instances running in separate Availability Zones, eliminating any single point of failure. I updated the existing Auto Scaling group to include a third Availability Zone and increased the desired capacity to ensure a minimum of three EC2 instances were running concurrently. This configuration allows the environment to automatically replace unhealthy instances and scale dynamically based on demand, ensuring continuous availability and resilience. Through these steps, I successfully implemented a multi-AZ, load-balanced, and auto-scaled architecture that meets AWS high availability best practices and passed the solution validation requirements.
 
