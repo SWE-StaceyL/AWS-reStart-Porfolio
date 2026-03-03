@@ -1,4 +1,4 @@
-## Cloud Computing Essentials (AWS SimuLearn)
+## AWS SimuLearn 1. Cloud Computing Essentials 
 
 Through the **AWS SimuLearn – Cloud Computing Essentials** labs, I gained a foundational understanding of cloud computing concepts and how cloud services are used to build, deploy, and manage modern applications. These hands-on simulations focused on introducing core cloud principles while demonstrating how cloud technology supports scalability, availability, security, and cost efficiency.
 
