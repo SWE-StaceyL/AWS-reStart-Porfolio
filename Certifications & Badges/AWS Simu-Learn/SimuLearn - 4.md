@@ -1,4 +1,4 @@
-## First NoSQL Database (AWS SimuLearn)
+## AWS SimuLearn 4. First NoSQL Database 
 
 Through the **AWS SimuLearn – First NoSQL Database** labs, I gained hands-on experience with non-relational database concepts and learned how NoSQL databases differ from traditional relational systems. These exercises focused on understanding when and why to use NoSQL solutions, and how they support modern, scalable, and flexible applications.
 
