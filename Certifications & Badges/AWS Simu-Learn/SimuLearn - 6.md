@@ -1,4 +1,4 @@
-## Databases in Practice (AWS SimuLearn)
+## AWS SimuLearn 6. Databases in Practice 
 
 Through the **SimuLearn – Databases in Practice** labs, I explored core relational database concepts and gained hands-on experience working with structured data in realistic, scenario-based environments. These exercises focused on understanding how databases are designed, managed, and queried to support real-world applications and business requirements.
 
