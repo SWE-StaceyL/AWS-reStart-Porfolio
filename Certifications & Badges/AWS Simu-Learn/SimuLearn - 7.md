@@ -1,4 +1,4 @@
-Networking Concepts (AWS SimuLearn)
+## AWS SimuLearn 7. Networking Concepts 
 
 Through the AWS SimuLearn – Networking Concepts labs, I gained hands-on experience with foundational cloud networking principles, exploring how networks are designed, managed, and secured in cloud environments. These labs focused on understanding the role of networking in supporting scalable, reliable, and high-performance cloud applications.
 
