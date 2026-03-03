@@ -1,4 +1,4 @@
-## Computing Solutions (AWS SimuLearn)
+## AWS SimuLearn 2. Computing Solutions
 
 Through the **AWS SimuLearn – Computing Solutions** labs, I gained hands-on experience with cloud-based compute services and developed a practical understanding of how computing resources are selected, configured, and managed to support scalable and reliable applications. These simulations focused on aligning compute solutions with application requirements and operational needs.
 
