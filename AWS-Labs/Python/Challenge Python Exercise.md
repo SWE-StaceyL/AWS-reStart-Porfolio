@@ -33,7 +33,7 @@ This project was completed as part of an **AWS Challenge Lab: Python Scripting E
 └── results.txt        # Output file containing all prime numbers
 ```
 
-## 🐍 The Script
+##  The Script
 
 ```python
 def is_prime(n):
@@ -78,6 +78,7 @@ python3 prime_numbers.py
 cat results.txt
 ```
 
+<img width="1120" height="760" alt="Screenshot 2026-03-10 143547" src="https://github.com/user-attachments/assets/86144212-9a38-43a7-9bdb-ddf01a989af0" />
 
 
 ##  Expected Output
@@ -92,6 +93,7 @@ The script finds **53 prime numbers** between 1 and 250:
 233, 239, 241
 ```
 
+<img width="1120" height="760" alt="Screenshot 2026-03-10 144543" src="https://github.com/user-attachments/assets/afa068e8-0563-4f0c-88f1-08137f2858be" />
 
 
 ##  How It Works
