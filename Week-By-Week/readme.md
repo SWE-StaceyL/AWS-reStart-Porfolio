@@ -264,7 +264,7 @@ These are the structured Canvas modules completed alongside the weekly AWS curri
 ## 🔗 Connect With Me
 
 -  GitHub: [SWE-StaceyL](https://github.com/SWE-StaceyL)
--  LinkedIn: 
+-  LinkedIn: www.linkedin.com/in/stacey-m-11a6222a
 -  Location: Pretoria, South Africa
 
 ---
