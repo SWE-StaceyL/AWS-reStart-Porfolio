@@ -243,14 +243,13 @@ These are the structured Canvas modules completed alongside the weekly AWS curri
 - **Challenge:** Understanding the difference between SQS, SNS, and EventBridge — all messaging and event services but with distinct roles.
 - **Solution:** SQS = *queue for decoupling workloads (pull-based)*; SNS = *broadcast notifications to multiple subscribers simultaneously*; EventBridge = *event bus for routing events between AWS services, custom apps, and SaaS platforms*.
 
-####  Key Takeaways & Reflections
-> Week 8 brought everything together — loosely coupled, event-driven architectures are at the heart of modern cloud design. Migration services demonstrated that moving workloads to AWS requires careful planning: the right tool depends on data volume, database engine, acceptable downtime, and compliance requirements. A fitting close to eight weeks of intensive, hands-on learning.
+
 
 ---
 
 ##  Projects
 
-| Project | Description | Tools Used |
+| Project | Description | Tools Used 
 |---------|-------------|------------|
 | **VPCQuizBot** | Amazon Lex V2 quiz chatbot integrated with Lambda and S3, testing VPC knowledge | Lex V2, Lambda (Python 3.12), S3, IAM |
 | **EC2 Python Scripting** | Prime number generator with square root optimisation, deployed on EC2 | Python, EC2, Cloud9 |
