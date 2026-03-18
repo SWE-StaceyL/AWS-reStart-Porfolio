@@ -1,4 +1,4 @@
-# AWS re/Start Labs Portfolio
+# AWS re/Start Canvas Labs 
 
 ## Overview
 This repository contains hands-on lab work completed as part of the **AWS re/Start Programme** — a project-based learning path focused on cloud fundamentals, Linux, networking, security, and Python scripting. Labs are organised by domain and reflect real-world AWS use cases aligned with the **AWS Certified Cloud Practitioner (CLF-C02)** exam objectives.
