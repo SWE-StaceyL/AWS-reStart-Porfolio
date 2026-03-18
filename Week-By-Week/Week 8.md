@@ -13,5 +13,9 @@
 - AWS Transfer Family — managed SFTP/FTP/FTPS file transfer
 - Application & Migration Services Cheat Sheets
 
+####  Challenges & How I Solved Them
+- **Challenge:** Understanding the difference between SQS, SNS, and EventBridge — all messaging and event services but with distinct roles.
+- **Solution:** SQS = *queue for decoupling workloads (pull-based)*; SNS = *broadcast notifications to multiple subscribers simultaneously*; EventBridge = *event bus for routing events between AWS services, custom apps, and SaaS platforms*.
+
 ####  Key Takeaways & Reflections
 > Week 8 brought everything together — loosely coupled, event-driven architectures are at the heart of modern cloud design. Migration services demonstrated that moving workloads to AWS requires careful planning: the right tool depends on data volume, database engine, acceptable downtime, and compliance requirements. A fitting close to eight weeks of intensive, hands-on learning.
