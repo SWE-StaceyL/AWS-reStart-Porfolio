@@ -1,6 +1,6 @@
 ### AWS re/Start Learning Journey
 
-**Stacey L** | Praesignis AWS re/Start Programme | Johannesburg, South Africa
+**Stacey L** | Praesignis AWS re/Start Programme 
 
 ---
 
