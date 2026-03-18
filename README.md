@@ -95,7 +95,10 @@ This repository will be **regularly updated** as I progress through the program.
 
 If you’re interested in cloud computing, collaboration, or mentorship, feel free to connect!
 
-* 💼 GitHub: *(this repository)*
-* ☁️ Focus: AWS | Cloud Engineering | Continuous Learning
+## 🔗 Connect With Me
+
+-  GitHub: [SWE-StaceyL](https://github.com/SWE-StaceyL)
+-  LinkedIn: www.linkedin.com/in/stacey-m-11a6222a
+-  Location: Pretoria, South Africa
 
 ⭐ *Thank you for visiting my repository and being part of my cloud journey!*
