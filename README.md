@@ -97,6 +97,8 @@ If you’re interested in cloud computing, collaboration, or mentorship, feel fr
 
 ## 🔗 Connect With Me
 
+Stacey L | Praesignis AWS re/Start Programme | Pretoria, South Africa | 0631322380/stacey.munnik@outlook.com
+
 -  GitHub: [SWE-StaceyL](https://github.com/SWE-StaceyL)
 -  LinkedIn: www.linkedin.com/in/stacey-m-11a6222a
 -  Location: Pretoria, South Africa
