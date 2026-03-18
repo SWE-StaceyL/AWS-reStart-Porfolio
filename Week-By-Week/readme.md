@@ -239,12 +239,6 @@ These are the structured Canvas modules completed alongside the weekly AWS curri
 - Designed a Step Functions workflow for multi-step process automation
 - Compared DMS homogeneous vs heterogeneous database migrations
 
-####  Challenges & How I Solved Them
-- **Challenge:** Understanding the difference between SQS, SNS, and EventBridge — all messaging and event services but with distinct roles.
-- **Solution:** SQS = *queue for decoupling workloads (pull-based)*; SNS = *broadcast notifications to multiple subscribers simultaneously*; EventBridge = *event bus for routing events between AWS services, custom apps, and SaaS platforms*.
-
-
-
 ---
 
 ##  Projects
