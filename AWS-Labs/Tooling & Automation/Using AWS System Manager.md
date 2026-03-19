@@ -1,16 +1,16 @@
-# 🖥️ AWS Systems Manager Lab
+# AWS Systems Manager Lab
 
-**CloudLearners Inc. | AWS re/Start Programme**
+
 
 ---
 
-## 📌 Overview
+## Overview
 
 This lab demonstrates how to use **AWS Systems Manager (SSM)** to manage and interact with EC2 instances — without requiring direct SSH access or open inbound ports. It covers two core SSM capabilities: **Run Command** and **Session Manager**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 By completing this lab, the following was achieved:
 
@@ -21,7 +21,7 @@ By completing this lab, the following was achieved:
 
 ---
 
-## 🛠️ Services & Tools Used
+## Services & Tools Used
 
 | Service / Tool | Purpose |
 |---|---|
@@ -35,7 +35,7 @@ By completing this lab, the following was achieved:
 
 ---
 
-## 🔄 Architecture
+## Architecture
 
 ```
 AWS Systems Manager
@@ -49,7 +49,7 @@ AWS Systems Manager
 
 ---
 
-## 🧪 Lab Tasks
+##  Lab Tasks
 
 ### Task 1 — Install Application Using Run Command
 
@@ -65,6 +65,12 @@ AWS Systems Manager
    - AWS SDK
    - Web Application
    - Started the web server automatically
+   - 
+<img width="1914" height="977" alt="Screenshot 2026-03-17 182857" src="https://github.com/user-attachments/assets/14757e7b-5a29-4439-ac62-ddab76145585" />
+
+<img width="1911" height="922" alt="Screenshot 2026-03-17 183043" src="https://github.com/user-attachments/assets/7b28e772-7509-4423-9639-58e71c248253" />
+
+<img width="1912" height="916" alt="Screenshot 2026-03-17 183556" src="https://github.com/user-attachments/assets/d25c5a21-abf1-4a4a-9d9c-575c7653cb3c" />
 
 ---
 
@@ -86,20 +92,28 @@ export AWS_DEFAULT_REGION=${AZ::-1}
 aws ec2 describe-instances
 ```
 
-> 💡 Session Manager provides secure access without requiring an open SSH port (port 22), making it more secure than traditional SSH access.
+Session Manager provides secure access without requiring an open SSH port (port 22), making it more secure than traditional SSH access.
+
+<img width="1907" height="957" alt="Screenshot 2026-03-17 184948" src="https://github.com/user-attachments/assets/3c3a9f83-54e3-429c-801b-3fe2b3474742" />
+
+<img width="1915" height="973" alt="Screenshot 2026-03-17 185016" src="https://github.com/user-attachments/assets/a8e3e502-244b-4571-9eb7-bde15ad4497e" />
 
 ---
 
-## 🔐 Security Highlights
+## Security Highlights
 
 - Session Manager access is controlled via **IAM policies**
 - All session activity is logged through **AWS CloudTrail**
 - The EC2 instance's security group had **port 22 (SSH) closed**, confirming that SSM is the secure access path
 - IAM permissions were required for the SSM Agent to register and interact with the Systems Manager service
 
+<img width="1918" height="998" alt="Screenshot 2026-03-17 184237" src="https://github.com/user-attachments/assets/f80de130-e26f-40d4-a4fc-bfba90a6d73d" />
+
+<img width="1916" height="996" alt="Screenshot 2026-03-17 184703" src="https://github.com/user-attachments/assets/de4fb4d3-72f2-4584-aefb-330ef3d6d803" />
+
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 - **SSM Run Command** enables remote, automated management of instances at scale — including targeting entire fleets using **tags**
 - **Session Manager** eliminates the need for SSH keys and open inbound ports, reducing the attack surface
@@ -108,18 +122,13 @@ aws ec2 describe-instances
 
 ---
 
-## 📁 Repository Structure
+## Consulsion
 
-```
-├── README.md          # Project overview and documentation
-```
+This lab provided hands-on experience with two of AWS Systems Manager's most powerful node management capabilities. By using Run Command, a full web application stack was deployed to an EC2 instance remotely and at scale — without ever logging into the machine directly. Through Session Manager, secure shell access was established without SSH keys or open inbound ports, demonstrating a modern, auditable alternative to traditional instance access.
+Together, these tools highlight how AWS Systems Manager enables cloud administrators to manage infrastructure securely, efficiently, and at scale — core principles of both cloud engineering and cybersecurity best practice. This lab reinforces the value of centralised instance management as part of a well-architected AWS environment.
 
----
 
-## 👩‍💻 Author
 
-**Stacey** | AWS re/Start Learner | Cloud & Cybersecurity Enthusiast
-GitHub: [@SWE-StaceyL](https://github.com/SWE-StaceyL)
 
 ---
 
